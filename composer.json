@@ -1,5 +1,5 @@
 {
-	"name": "tobiaswolf/site",
+	"name": "tobiaswolf/transform-urls",
 	"description": "Transforms uuid links in writer fields to links with readable path.",
 	"version": "0.1.0-beta.1",
 	"license": "MIT",
