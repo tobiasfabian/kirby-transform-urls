@@ -1,0 +1,13 @@
+{
+	"name": "tobiaswolf/site",
+	"description": "Transforms uuid links in writer fields to links with readable path.",
+	"version": "0.1.0-beta.1",
+	"license": "MIT",
+	"type": "kirby-plugin",
+	"authors": [
+		{
+			"name": "Tobias Wolf",
+			"email": "tobias@wirsindcarlo.de"
+		}
+	]
+}
