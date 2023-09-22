@@ -30,7 +30,7 @@ git submodule add https://github.com/tobiasfabian/kirby-transform-urls.git site/
 ### Composer
 
 ```
-composer require tobiasfabian/kirby-transform-urls
+composer require tobiaswolf/transform-urls
 ```
 
 ## Usage
